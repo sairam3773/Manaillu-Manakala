@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Mana Illu Mana Kala (MiMk) - handpicked art, crafts and home decor made with love." />
+  <title>Mana Illu Mana Kala | MiMk Art &amp; Craft Store</title>
+  <link rel="icon" href="assets/logo.jpg" type="image/jpeg" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <!-- Announcement bar -->
+  <div class="announcement">
+    <span>Handmade with heart &#10084; Shipped across India</span>
+  </div>
+
+  <!-- Header -->
+  <header class="site-header" id="top">
+    <div class="container header-inner">
+      <a href="index.html" class="brand" aria-label="Mana Illu Mana Kala home">
+        <img src="assets/logo.jpg" alt="MiMk logo" class="brand-logo" />
+        <span class="brand-text">
+          <strong>Mana Illu Mana Kala</strong>
+          <small>many traditions, one home</small>
+        </span>
+      </a>
+
+      <nav class="main-nav" aria-label="Main navigation">
+        <a href="#home">Home</a>
+        <a href="#categories">Categories</a>
+        <a href="#products">Shop</a>
+        <a href="#about">Our Story</a>
+        <a href="#contact">Contact</a>
+      </nav>
+
+      <div class="header-actions">
+        <button class="icon-btn search-toggle" type="button" aria-label="Search products" title="Search">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg>
+        </button>
+        <button class="icon-btn cart-toggle" type="button" aria-label="Open cart" title="Cart">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 4h2l2.6 11h10.2l2.2-8H7"/><circle cx="9" cy="20" r="1.5"/><circle cx="18" cy="20" r="1.5"/></svg>
+          <span class="cart-badge" id="cartCount">0</span>
+        </button>
+        <a href="admin.html" class="admin-link" title="Admin panel">Admin</a>
+      </div>
+    </div>
+
+    <div class="mobile-search-wrap container" id="mobileSearchWrap" hidden>
+      <input type="search" id="headerSearch" placeholder="Search paintings, jewellery, decor..." aria-label="Search products" />
+    </div>
+  </header>
+
+  <main>
+    <!-- Hero -->
+    <section class="hero" id="home">
+      <div class="container hero-grid">
+        <div class="hero-copy">
+          <p class="eyebrow">మన ఇల్లు &middot; మన కళ</p>
+          <h1>Every home has a story.<br /><em>Let ours be part of yours.</em></h1>
+          <p class="hero-text">
+            Discover handcrafted art, thoughtful decor and little treasures made by
+            hands that still believe in slow, beautiful work.
+          </p>
+          <div class="hero-buttons">
+            <a href="#products" class="btn btn-primary">Explore the collection</a>
+            <a href="#about" class="btn btn-outline">Our story</a>
+          </div>
+          <div class="hero-points">
+            <span>&#10003; Made by artisans</span>
+            <span>&#10003; Secure packaging</span>
+            <span>&#10003; Easy returns</span>
+          </div>
+        </div>
+        <div class="hero-art" aria-hidden="true">
+          <div class="hero-frame frame-one"></div>
+          <div class="hero-frame frame-two"></div>
+          <div class="hero-frame frame-three"></div>
+          <div class="hero-seal">MiMk<br /><small>handmade</small></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Category strip -->
+    <section class="categories section" id="categories">
+      <div class="container">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Browse by mood</p>
+            <h2>Find something you love</h2>
+          </div>
+          <a href="#products" class="text-link">View all &rarr;</a>
+        </div>
+        <div class="category-grid" id="categoryGrid"></div>
+      </div>
+    </section>
+
+    <!-- Products -->
+    <section class="products section alt-bg" id="products">
+      <div class="container">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">The collection</p>
+            <h2>Made to be treasured</h2>
+          </div>
+          <p class="section-note" id="productCount"></p>
+        </div>
+
+        <div class="toolbar">
+          <div class="filter-chips" id="filterChips" aria-label="Filter by category"></div>
+          <div class="toolbar-right">
+            <label class="search-field">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg>
+              <input type="search" id="shopSearch" placeholder="Search the store..." aria-label="Search products" />
+            </label>
+            <label class="sort-field">
+              <span class="sr-only">Sort products</span>
+              <select id="sortSelect" aria-label="Sort products">
+                <option value="featured">Featured</option>
+                <option value="price-low">Price: low to high</option>
+                <option value="price-high">Price: high to low</option>
+                <option value="name">Name: A to Z</option>
+                <option value="newest">Newest first</option>
+              </select>
+            </label>
+          </div>
+        </div>
+
+        <div class="product-grid" id="productGrid"></div>
+        <div class="empty-state" id="emptyState" hidden>
+          <h3>Nothing here yet</h3>
+          <p>Try another search or category &mdash; new pieces are added often.</p>
+          <button class="btn btn-outline" type="button" id="resetFilters">Clear filters</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- About -->
+    <section class="about section" id="about">
+      <div class="container about-grid">
+        <div class="about-visual" aria-hidden="true">
+          <div class="about-circle"></div>
+          <div class="about-quote">"Art is the quiet language of home."</div>
+        </div>
+        <div class="about-copy">
+          <p class="eyebrow">Our story</p>
+          <h2>Mana Illu Mana Kala &mdash; our home, our art</h2>
+          <p>
+            The name carries everything we believe in. A home is not just walls and
+            furniture; it is the colour you chose, the craft you kept, the small
+            handmade thing that makes a room feel like <em>yours</em>.
+          </p>
+          <p>
+            MiMk brings together artisans and makers who still take their time.
+            Every piece is chosen for the care behind it &mdash; not just how it
+            looks on a shelf.
+          </p>
+          <ul class="about-list">
+            <li><strong>Small batches</strong> &mdash; nothing mass produced</li>
+            <li><strong>Fair pay</strong> &mdash; makers are paid directly</li>
+            <li><strong>Thoughtful packing</strong> &mdash; arrives gift ready</li>
+          </ul>
+          <a href="#products" class="btn btn-primary">Shop the collection</a>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer" id="contact">
+    <div class="container footer-grid">
+      <div class="footer-brand">
+        <img src="assets/logo.jpg" alt="MiMk logo" class="footer-logo" />
+        <p>Mana Illu Mana Kala &mdash; handpicked art and craft for the spaces you call home.</p>
+      </div>
+      <div>
+        <h3>Explore</h3>
+        <a href="#home">Home</a>
+        <a href="#categories">Categories</a>
+        <a href="#products">Shop all</a>
+        <a href="#about">Our story</a>
+      </div>
+      <div>
+        <h3>Help</h3>
+        <a href="#contact">Contact us</a>
+        <a href="#products">Shipping</a>
+        <a href="#products">Returns</a>
+        <a href="admin.html">Admin login</a>
+      </div>
+      <div>
+        <h3>Say hello</h3>
+        <p>hello@mimk.store</p>
+        <p>+91 90000 00000</p>
+        <p>Mon &ndash; Sat, 10am &ndash; 6pm</p>
+      </div>
+    </div>
+    <div class="container footer-bottom">
+      <span>&copy; <span id="year"></span> Mana Illu Mana Kala. Made with care.</span>
+      <a href="#top">Back to top &uarr;</a>
+    </div>
+  </footer>
+
+  <!-- Cart drawer -->
+  <div class="overlay" id="cartOverlay" hidden></div>
+  <aside class="cart-drawer" id="cartDrawer" aria-label="Shopping cart" aria-hidden="true">
+    <div class="cart-head">
+      <h2>Your cart <span id="drawerCount">(0)</span></h2>
+      <button class="icon-btn" type="button" id="closeCart" aria-label="Close cart">&times;</button>
+    </div>
+    <div class="cart-items" id="cartItems"></div>
+    <div class="cart-foot">
+      <div class="cart-total"><span>Total</span><strong id="cartTotal">&#8377;0</strong></div>
+      <button class="btn btn-primary full" type="button" id="checkoutBtn" disabled>Checkout</button>
+    </div>
+  </aside>
+
+  <!-- Checkout modal -->
+  <div class="modal-wrap" id="checkoutModal" hidden>
+    <div class="modal" role="dialog" aria-modal="true" aria-labelledby="checkoutTitle">
+      <button class="icon-btn modal-close" type="button" id="closeCheckout" aria-label="Close">&times;</button>
+      <h2 id="checkoutTitle">Almost there</h2>
+      <p class="modal-sub">Add your delivery details and we'll confirm on WhatsApp.</p>
+      <form id="checkoutForm">
+        <div class="checkout-grid">
+          <label>Full name<input type="text" id="custName" required placeholder="Your name" /></label>
+          <label>WhatsApp number<input type="tel" id="custWhatsapp" required pattern="[0-9+\s-]{7,15}" placeholder="10-digit mobile number" /></label>
+          <label class="full">Door name / Apartment number<input type="text" id="custDoor" required placeholder="Flat 4B, Door 12, House name..." /></label>
+          <label class="full">Street<input type="text" id="custStreet" required placeholder="Street / colony / landmark" /></label>
+          <label>Village / Town<input type="text" id="custTown" required placeholder="Village or town" /></label>
+          <label>Mandal<input type="text" id="custMandal" required placeholder="Mandal" /></label>
+          <label>District<input type="text" id="custDistrict" required placeholder="District" /></label>
+          <label>State<input type="text" id="custState" required placeholder="State" /></label>
+          <label>PIN Code<input type="text" id="custPin" required pattern="[0-9]{6}" inputmode="numeric" maxlength="6" placeholder="6-digit PIN" /></label>
+        </div>
+        <div class="modal-total">Order total: <strong id="modalTotal">&#8377;0</strong></div>
+        <button class="btn btn-primary full" type="submit">Place order</button>
+        <p class="demo-note">Demo store &mdash; no payment is collected.</p>
+      </form>
+      <div class="order-success" id="orderSuccess" hidden>
+        <div class="success-icon">&#10003;</div>
+        <h2>Thank you!</h2>
+        <p>we will contact you in whatsapp</p>
+        <p class="order-ref">Order ID: <strong id="orderRef"></strong></p>
+        <button class="btn btn-primary full" type="button" id="doneOrder">Done</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script src="js/data.js"></script>
+  <script src="js/store.js"></script>
+  <script src="js/shop.js"></script>
+</body>
+</html>

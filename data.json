@@ -1,0 +1,150 @@
+{
+  "products": [
+    {
+      "id": "seed-1",
+      "name": "Warli Harvest Wall Plate",
+      "category": "Paintings",
+      "price": 1499,
+      "description": "Hand-painted tribal motifs on a terracotta plate, ready to hang.",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22600%22%20viewBox%3D%220%200%20600%20600%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23b8543f%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%237c2d27%22%2F%3E%3C%2FlinearGradient%3E%3Cpattern%20id%3D%22p%22%20width%3D%2244%22%20height%3D%2244%22%20patternUnits%3D%22userSpaceOnUse%22%3E%3Ccircle%20cx%3D%2222%22%20cy%3D%2222%22%20r%3D%223%22%20fill%3D%22%23ffe9c8%22%20opacity%3D%220.28%22%2F%3E%3Cpath%20d%3D%22M0%2022h44M22%200v44%22%20stroke%3D%22%23ffe9c8%22%20stroke-width%3D%220.5%22%20opacity%3D%220.16%22%2F%3E%3C%2Fpattern%3E%3C%2Fdefs%3E%3Crect%20width%3D%22600%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%3Crect%20width%3D%22600%22%20height%3D%22600%22%20fill%3D%22url(%23p)%22%2F%3E%3Ccircle%20cx%3D%22300%22%20cy%3D%22268%22%20r%3D%22150%22%20fill%3D%22none%22%20stroke%3D%22%23ffe9c8%22%20stroke-width%3D%222%22%20opacity%3D%220.55%22%2F%3E%3Ccircle%20cx%3D%22300%22%20cy%3D%22268%22%20r%3D%22126%22%20fill%3D%22none%22%20stroke%3D%22%23ffe9c8%22%20stroke-width%3D%221%22%20opacity%3D%220.4%22%2F%3E%3Cpath%20d%3D%22M300%20128v280M160%20268h280%22%20stroke%3D%22%23ffe9c8%22%20stroke-width%3D%221%22%20opacity%3D%220.32%22%2F%3E%3Ctext%20x%3D%22300%22%20y%3D%22272%22%20text-anchor%3D%22middle%22%20font-family%3D%22Georgia%2Cserif%22%20font-size%3D%2234%22%20fill%3D%22%23ffe9c8%22%3EWarli%3C%2Ftext%3E%3Ctext%20x%3D%22300%22%20y%3D%22312%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2213%22%20letter-spacing%3D%225%22%20fill%3D%22%23ffe9c8%22%20opacity%3D%220.8%22%3EMIMK%3C%2Ftext%3E%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22552%22%20height%3D%22552%22%20fill%3D%22none%22%20stroke%3D%22%23ffe9c8%22%20stroke-width%3D%222%22%20opacity%3D%220.35%22%2F%3E%3C%2Fsvg%3E",
+      "featured": true,
+      "active": true,
+      "createdAt": 1706000000000,
+      "stock": 10
+    },
+    {
+      "id": "seed-2",
+      "name": "Brass Diya Pair",
+      "category": "Home Decor",
+      "price": 899,
+      "description": "A pair of polished brass lamps for festivals and quiet evenings.",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22600%22%20viewBox%3D%220%200%20600%20600%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23c99a4e%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%238b5e22%22%2F%3E%3C%2FlinearGradient%3E%3Cpattern%20id%3D%22p%22%20width%3D%2244%22%20height%3D%2244%22%20patternUnits%3D%22userSpaceOnUse%22%3E%3Ccircle%20cx%3D%2222%22%20cy%3D%2222%22%20r%3D%223%22%20fill%3D%22%23fff3d2%22%20opacity%3D%220.28%22%2F%3E%3Cpath%20d%3D%22M0%2022h44M22%200v44%22%20stroke%3D%22%23fff3d2%22%20stroke-width%3D%220.5%22%20opacity%3D%220.16%22%2F%3E%3C%2Fpattern%3E%3C%2Fdefs%3E%3Crect%20width%3D%22600%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%3Crect%20width%3D%22600%22%20height%3D%22600%22%20fill%3D%22url(%23p)%22%2F%3E%3Ccircle%20cx%3D%22300%22%20cy%3D%22268%22%20r%3D%22150%22%20fill%3D%22none%22%20stroke%3D%22%23fff3d2%22%20stroke-width%3D%222%22%20opacity%3D%220.55%22%2F%3E%3Ccircle%20cx%3D%22300%22%20cy%3D%22268%22%20r%3D%22126%22%20fill%3D%22none%22%20stroke%3D%22%23fff3d2%22%20stroke-width%3D%221%22%20opacity%3D%220.4%22%2F%3E%3Cpath%20d%3D%22M300%20128v280M160%20268h280%22%20stroke%3D%22%23fff3d2%22%20stroke-width%3D%221%22%20opacity%3D%220.32%22%2F%3E%3Ctext%20x%3D%22300%22%20y%3D%22272%22%20text-anchor%3D%22middle%22%20font-family%3D%22Georgia%2Cserif%22%20font-size%3D%2234%22%20fill%3D%22%23fff3d2%22%3EBrass%3C%2Ftext%3E%3Ctext%20x%3D%22300%22%20y%3D%22312%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2213%22%20letter-spacing%3D%225%22%20fill%3D%22%23fff3d2%22%20opacity%3D%220.8%22%3EMIMK%3C%2Ftext%3E%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22552%22%20height%3D%22552%22%20fill%3D%22none%22%20stroke%3D%22%23fff3d2%22%20stroke-width%3D%222%22%20opacity%3D%220.35%22%2F%3E%3C%2Fsvg%3E",
+      "featured": true,
+      "active": true,
+      "createdAt": 1706100000000,
+      "stock": 10
+    },
+    {
+      "id": "seed-3",
+      "name": "Kalamkari Silk Scarf",
+      "category": "Textiles",
+      "price": 2199,
+      "description": "Soft silk with hand-block floral prints in earthy, festive tones.",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22600%22%20viewBox%3D%220%200%20600%20600%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%237a8f5c%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%233f5d3c%22%2F%3E%3C%2FlinearGradient%3E%3Cpattern%20id%3D%22p%22%20width%3D%2244%22%20height%3D%2244%22%20patternUnits%3D%22userSpaceOnUse%22%3E%3Ccircle%20cx%3D%2222%22%20cy%3D%2222%22%20r%3D%223%22%20fill%3D%22%23f4e8c8%22%20opacity%3D%220.28%22%2F%3E%3Cpath%20d%3D%22M0%2022h44M22%200v44%22%20stroke%3D%22%23f4e8c8%22%20stroke-width%3D%220.5%22%20opacity%3D%220.16%22%2F%3E%3C%2Fpattern%3E%3C%2Fdefs%3E%3Crect%20width%3D%22600%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%3Crect%20width%3D%22600%22%20height%3D%22600%22%20fill%3D%22url(%23p)%22%2F%3E%3Ccircle%20cx%3D%22300%22%20cy%3D%22268%22%20r%3D%22150%22%20fill%3D%22none%22%20stroke%3D%22%23f4e8c8%22%20stroke-width%3D%222%22%20opacity%3D%220.55%22%2F%3E%3Ccircle%20cx%3D%22300%22%20cy%3D%22268%22%20r%3D%22126%22%20fill%3D%22none%22%20stroke%3D%22%23f4e8c8%22%20stroke-width%3D%221%22%20opacity%3D%220.4%22%2F%3E%3Cpath%20d%3D%22M300%20128v280M160%20268h280%22%20stroke%3D%22%23f4e8c8%22%20stroke-width%3D%221%22%20opacity%3D%220.32%22%2F%3E%3Ctext%20x%3D%22300%22%20y%3D%22272%22%20text-anchor%3D%22middle%22%20font-family%3D%22Georgia%2Cserif%22%20font-size%3D%2234%22%20fill%3D%22%23f4e8c8%22%3EKalamkari%3C%2Ftext%3E%3Ctext%20x%3D%22300%22%20y%3D%22312%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2213%22%20letter-spacing%3D%225%22%20fill%3D%22%23f4e8c8%22%20opacity%3D%220.8%22%3EMIMK%3C%2Ftext%3E%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22552%22%20height%3D%22552%22%20fill%3D%22none%22%20stroke%3D%22%23f4e8c8%22%20stroke-width%3D%222%22%20opacity%3D%220.35%22%2F%3E%3C%2Fsvg%3E",
+      "featured": true,
+      "active": true,
+      "createdAt": 1706200000000,
+      "stock": 10
+    },
+    {
+      "id": "seed-4",
+      "name": "Terracotta Planter Set",
+      "category": "Pottery",
+      "price": 1199,
+      "description": "Three rustic planters with a natural clay finish and drainage holes.",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22600%22%20viewBox%3D%220%200%20600%20600%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23c0785a%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%238a4a34%22%2F%3E%3C%2FlinearGradient%3E%3Cpattern%20id%3D%22p%22%20width%3D%2244%22%20height%3D%2244%22%20patternUnits%3D%22userSpaceOnUse%22%3E%3Ccircle%20cx%3D%2222%22%20cy%3D%2222%22%20r%3D%223%22%20fill%3D%22%23f8e4d0%22%20opacity%3D%220.28%22%2F%3E%3Cpath%20d%3D%22M0%2022h44M22%200v44%22%20stroke%3D%22%23f8e4d0%22%20stroke-width%3D%220.5%22%20opacity%3D%220.16%22%2F%3E%3C%2Fpattern%3E%3C%2Fdefs%3E%3Crect%20width%3D%22600%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%3Crect%20width%3D%22600%22%20height%3D%22600%22%20fill%3D%22url(%23p)%22%2F%3E%3Ccircle%20cx%3D%22300%22%20cy%3D%22268%22%20r%3D%22150%22%20fill%3D%22none%22%20stroke%3D%22%23f8e4d0%22%20stroke-width%3D%222%22%20opacity%3D%220.55%22%2F%3E%3Ccircle%20cx%3D%22300%22%20cy%3D%22268%22%20r%3D%22126%22%20fill%3D%22none%22%20stroke%3D%22%23f8e4d0%22%20stroke-width%3D%221%22%20opacity%3D%220.4%22%2F%3E%3Cpath%20d%3D%22M300%20128v280M160%20268h280%22%20stroke%3D%22%23f8e4d0%22%20stroke-width%3D%221%22%20opacity%3D%220.32%22%2F%3E%3Ctext%20x%3D%22300%22%20y%3D%22272%22%20text-anchor%3D%22middle%22%20font-family%3D%22Georgia%2Cserif%22%20font-size%3D%2234%22%20fill%3D%22%23f8e4d0%22%3EClay%3C%2Ftext%3E%3Ctext%20x%3D%22300%22%20y%3D%22312%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2213%22%20letter-spacing%3D%225%22%20fill%3D%22%23f8e4d0%22%20opacity%3D%220.8%22%3EMIMK%3C%2Ftext%3E%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22552%22%20height%3D%22552%22%20fill%3D%22none%22%20stroke%3D%22%23f8e4d0%22%20stroke-width%3D%222%22%20opacity%3D%220.35%22%2F%3E%3C%2Fsvg%3E",
+      "featured": false,
+      "active": true,
+      "createdAt": 1706300000000,
+      "stock": 10
+    },
+    {
+      "id": "seed-5",
+      "name": "Oxidised Silver Jhumkas",
+      "category": "Jewellery",
+      "price": 1350,
+      "description": "Lightweight statement earrings with intricate hand-finished detailing.",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22600%22%20viewBox%3D%220%200%20600%20600%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%236f6f7a%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%233d3d49%22%2F%3E%3C%2FlinearGradient%3E%3Cpattern%20id%3D%22p%22%20width%3D%2244%22%20height%3D%2244%22%20patternUnits%3D%22userSpaceOnUse%22%3E%3Ccircle%20cx%3D%2222%22%20cy%3D%2222%22%20r%3D%223%22%20fill%3D%22%23e8d9b8%22%20opacity%3D%220.28%22%2F%3E%3Cpath%20d%3D%22M0%2022h44M22%200v44%22%20stroke%3D%22%23e8d9b8%22%20stroke-width%3D%220.5%22%20opacity%3D%220.16%22%2F%3E%3C%2Fpattern%3E%3C%2Fdefs%3E%3Crect%20width%3D%22600%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%3Crect%20width%3D%22600%22%20height%3D%22600%22%20fill%3D%22url(%23p)%22%2F%3E%3Ccircle%20cx%3D%22300%22%20cy%3D%22268%22%20r%3D%22150%22%20fill%3D%22none%22%20stroke%3D%22%23e8d9b8%22%20stroke-width%3D%222%22%20opacity%3D%220.55%22%2F%3E%3Ccircle%20cx%3D%22300%22%20cy%3D%22268%22%20r%3D%22126%22%20fill%3D%22none%22%20stroke%3D%22%23e8d9b8%22%20stroke-width%3D%221%22%20opacity%3D%220.4%22%2F%3E%3Cpath%20d%3D%22M300%20128v280M160%20268h280%22%20stroke%3D%22%23e8d9b8%22%20stroke-width%3D%221%22%20opacity%3D%220.32%22%2F%3E%3Ctext%20x%3D%22300%22%20y%3D%22272%22%20text-anchor%3D%22middle%22%20font-family%3D%22Georgia%2Cserif%22%20font-size%3D%2234%22%20fill%3D%22%23e8d9b8%22%3EJhumka%3C%2Ftext%3E%3Ctext%20x%3D%22300%22%20y%3D%22312%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2213%22%20letter-spacing%3D%225%22%20fill%3D%22%23e8d9b8%22%20opacity%3D%220.8%22%3EMIMK%3C%2Ftext%3E%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22552%22%20height%3D%22552%22%20fill%3D%22none%22%20stroke%3D%22%23e8d9b8%22%20stroke-width%3D%222%22%20opacity%3D%220.35%22%2F%3E%3C%2Fsvg%3E",
+      "featured": true,
+      "active": true,
+      "createdAt": 1706400000000,
+      "stock": 10
+    },
+    {
+      "id": "seed-6",
+      "name": "Jute Basket with Handle",
+      "category": "Gifts",
+      "price": 749,
+      "description": "A sturdy woven basket that works for flowers, books or little gifts.",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22600%22%20viewBox%3D%220%200%20600%20600%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23d3b07a%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%239a7440%22%2F%3E%3C%2FlinearGradient%3E%3Cpattern%20id%3D%22p%22%20width%3D%2244%22%20height%3D%2244%22%20patternUnits%3D%22userSpaceOnUse%22%3E%3Ccircle%20cx%3D%2222%22%20cy%3D%2222%22%20r%3D%223%22%20fill%3D%22%23fff0d0%22%20opacity%3D%220.28%22%2F%3E%3Cpath%20d%3D%22M0%2022h44M22%200v44%22%20stroke%3D%22%23fff0d0%22%20stroke-width%3D%220.5%22%20opacity%3D%220.16%22%2F%3E%3C%2Fpattern%3E%3C%2Fdefs%3E%3Crect%20width%3D%22600%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%3Crect%20width%3D%22600%22%20height%3D%22600%22%20fill%3D%22url(%23p)%22%2F%3E%3Ccircle%20cx%3D%22300%22%20cy%3D%22268%22%20r%3D%22150%22%20fill%3D%22none%22%20stroke%3D%22%23fff0d0%22%20stroke-width%3D%222%22%20opacity%3D%220.55%22%2F%3E%3Ccircle%20cx%3D%22300%22%20cy%3D%22268%22%20r%3D%22126%22%20fill%3D%22none%22%20stroke%3D%22%23fff0d0%22%20stroke-width%3D%221%22%20opacity%3D%220.4%22%2F%3E%3Cpath%20d%3D%22M300%20128v280M160%20268h280%22%20stroke%3D%22%23fff0d0%22%20stroke-width%3D%221%22%20opacity%3D%220.32%22%2F%3E%3Ctext%20x%3D%22300%22%20y%3D%22272%22%20text-anchor%3D%22middle%22%20font-family%3D%22Georgia%2Cserif%22%20font-size%3D%2234%22%20fill%3D%22%23fff0d0%22%3EJute%3C%2Ftext%3E%3Ctext%20x%3D%22300%22%20y%3D%22312%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2213%22%20letter-spacing%3D%225%22%20fill%3D%22%23fff0d0%22%20opacity%3D%220.8%22%3EMIMK%3C%2Ftext%3E%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22552%22%20height%3D%22552%22%20fill%3D%22none%22%20stroke%3D%22%23fff0d0%22%20stroke-width%3D%222%22%20opacity%3D%220.35%22%2F%3E%3C%2Fsvg%3E",
+      "featured": false,
+      "active": true,
+      "createdAt": 1706500000000,
+      "stock": 10
+    },
+    {
+      "id": "seed-7",
+      "name": "Madhubani Canvas Panel",
+      "category": "Paintings",
+      "price": 2899,
+      "description": "Fine line work and vivid natural pigments on a stretched canvas.",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22600%22%20viewBox%3D%220%200%20600%20600%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23a8435c%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%235e2237%22%2F%3E%3C%2FlinearGradient%3E%3Cpattern%20id%3D%22p%22%20width%3D%2244%22%20height%3D%2244%22%20patternUnits%3D%22userSpaceOnUse%22%3E%3Ccircle%20cx%3D%2222%22%20cy%3D%2222%22%20r%3D%223%22%20fill%3D%22%23ffe0c8%22%20opacity%3D%220.28%22%2F%3E%3Cpath%20d%3D%22M0%2022h44M22%200v44%22%20stroke%3D%22%23ffe0c8%22%20stroke-width%3D%220.5%22%20opacity%3D%220.16%22%2F%3E%3C%2Fpattern%3E%3C%2Fdefs%3E%3Crect%20width%3D%22600%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%3Crect%20width%3D%22600%22%20height%3D%22600%22%20fill%3D%22url(%23p)%22%2F%3E%3Ccircle%20cx%3D%22300%22%20cy%3D%22268%22%20r%3D%22150%22%20fill%3D%22none%22%20stroke%3D%22%23ffe0c8%22%20stroke-width%3D%222%22%20opacity%3D%220.55%22%2F%3E%3Ccircle%20cx%3D%22300%22%20cy%3D%22268%22%20r%3D%22126%22%20fill%3D%22none%22%20stroke%3D%22%23ffe0c8%22%20stroke-width%3D%221%22%20opacity%3D%220.4%22%2F%3E%3Cpath%20d%3D%22M300%20128v280M160%20268h280%22%20stroke%3D%22%23ffe0c8%22%20stroke-width%3D%221%22%20opacity%3D%220.32%22%2F%3E%3Ctext%20x%3D%22300%22%20y%3D%22272%22%20text-anchor%3D%22middle%22%20font-family%3D%22Georgia%2Cserif%22%20font-size%3D%2234%22%20fill%3D%22%23ffe0c8%22%3EMadhubani%3C%2Ftext%3E%3Ctext%20x%3D%22300%22%20y%3D%22312%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2213%22%20letter-spacing%3D%225%22%20fill%3D%22%23ffe0c8%22%20opacity%3D%220.8%22%3EMIMK%3C%2Ftext%3E%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22552%22%20height%3D%22552%22%20fill%3D%22none%22%20stroke%3D%22%23ffe0c8%22%20stroke-width%3D%222%22%20opacity%3D%220.35%22%2F%3E%3C%2Fsvg%3E",
+      "featured": true,
+      "active": true,
+      "createdAt": 1706600000000,
+      "stock": 10
+    },
+    {
+      "id": "seed-8",
+      "name": "Hand-carved Wooden Tray",
+      "category": "Home Decor",
+      "price": 1650,
+      "description": "Mango wood tray with a carved border, perfect for tea service.",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22600%22%20viewBox%3D%220%200%20600%20600%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23a57343%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%2368421f%22%2F%3E%3C%2FlinearGradient%3E%3Cpattern%20id%3D%22p%22%20width%3D%2244%22%20height%3D%2244%22%20patternUnits%3D%22userSpaceOnUse%22%3E%3Ccircle%20cx%3D%2222%22%20cy%3D%2222%22%20r%3D%223%22%20fill%3D%22%23f6e2c0%22%20opacity%3D%220.28%22%2F%3E%3Cpath%20d%3D%22M0%2022h44M22%200v44%22%20stroke%3D%22%23f6e2c0%22%20stroke-width%3D%220.5%22%20opacity%3D%220.16%22%2F%3E%3C%2Fpattern%3E%3C%2Fdefs%3E%3Crect%20width%3D%22600%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%3Crect%20width%3D%22600%22%20height%3D%22600%22%20fill%3D%22url(%23p)%22%2F%3E%3Ccircle%20cx%3D%22300%22%20cy%3D%22268%22%20r%3D%22150%22%20fill%3D%22none%22%20stroke%3D%22%23f6e2c0%22%20stroke-width%3D%222%22%20opacity%3D%220.55%22%2F%3E%3Ccircle%20cx%3D%22300%22%20cy%3D%22268%22%20r%3D%22126%22%20fill%3D%22none%22%20stroke%3D%22%23f6e2c0%22%20stroke-width%3D%221%22%20opacity%3D%220.4%22%2F%3E%3Cpath%20d%3D%22M300%20128v280M160%20268h280%22%20stroke%3D%22%23f6e2c0%22%20stroke-width%3D%221%22%20opacity%3D%220.32%22%2F%3E%3Ctext%20x%3D%22300%22%20y%3D%22272%22%20text-anchor%3D%22middle%22%20font-family%3D%22Georgia%2Cserif%22%20font-size%3D%2234%22%20fill%3D%22%23f6e2c0%22%3EWood%3C%2Ftext%3E%3Ctext%20x%3D%22300%22%20y%3D%22312%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2213%22%20letter-spacing%3D%225%22%20fill%3D%22%23f6e2c0%22%20opacity%3D%220.8%22%3EMIMK%3C%2Ftext%3E%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22552%22%20height%3D%22552%22%20fill%3D%22none%22%20stroke%3D%22%23f6e2c0%22%20stroke-width%3D%222%22%20opacity%3D%220.35%22%2F%3E%3C%2Fsvg%3E",
+      "featured": false,
+      "active": true,
+      "createdAt": 1706700000000,
+      "stock": 10
+    },
+    {
+      "id": "seed-9",
+      "name": "Block Cotton Cushion Cover",
+      "category": "Textiles",
+      "price": 649,
+      "description": "Breathable cotton with a hand-printed motif in indigo and ivory.",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22600%22%20viewBox%3D%220%200%20600%20600%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23587aa4%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%2329466d%22%2F%3E%3C%2FlinearGradient%3E%3Cpattern%20id%3D%22p%22%20width%3D%2244%22%20height%3D%2244%22%20patternUnits%3D%22userSpaceOnUse%22%3E%3Ccircle%20cx%3D%2222%22%20cy%3D%2222%22%20r%3D%223%22%20fill%3D%22%23f0e6d0%22%20opacity%3D%220.28%22%2F%3E%3Cpath%20d%3D%22M0%2022h44M22%200v44%22%20stroke%3D%22%23f0e6d0%22%20stroke-width%3D%220.5%22%20opacity%3D%220.16%22%2F%3E%3C%2Fpattern%3E%3C%2Fdefs%3E%3Crect%20width%3D%22600%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%3Crect%20width%3D%22600%22%20height%3D%22600%22%20fill%3D%22url(%23p)%22%2F%3E%3Ccircle%20cx%3D%22300%22%20cy%3D%22268%22%20r%3D%22150%22%20fill%3D%22none%22%20stroke%3D%22%23f0e6d0%22%20stroke-width%3D%222%22%20opacity%3D%220.55%22%2F%3E%3Ccircle%20cx%3D%22300%22%20cy%3D%22268%22%20r%3D%22126%22%20fill%3D%22none%22%20stroke%3D%22%23f0e6d0%22%20stroke-width%3D%221%22%20opacity%3D%220.4%22%2F%3E%3Cpath%20d%3D%22M300%20128v280M160%20268h280%22%20stroke%3D%22%23f0e6d0%22%20stroke-width%3D%221%22%20opacity%3D%220.32%22%2F%3E%3Ctext%20x%3D%22300%22%20y%3D%22272%22%20text-anchor%3D%22middle%22%20font-family%3D%22Georgia%2Cserif%22%20font-size%3D%2234%22%20fill%3D%22%23f0e6d0%22%3EIndigo%3C%2Ftext%3E%3Ctext%20x%3D%22300%22%20y%3D%22312%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2213%22%20letter-spacing%3D%225%22%20fill%3D%22%23f0e6d0%22%20opacity%3D%220.8%22%3EMIMK%3C%2Ftext%3E%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22552%22%20height%3D%22552%22%20fill%3D%22none%22%20stroke%3D%22%23f0e6d0%22%20stroke-width%3D%222%22%20opacity%3D%220.35%22%2F%3E%3C%2Fsvg%3E",
+      "featured": false,
+      "active": true,
+      "createdAt": 1706800000000,
+      "stock": 10
+    },
+    {
+      "id": "seed-10",
+      "name": "Glazed Ceramic Coffee Mugs",
+      "category": "Pottery",
+      "price": 999,
+      "description": "Set of two wheel-thrown mugs with a soft, food-safe glaze.",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22600%22%20viewBox%3D%220%200%20600%20600%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%238ba5a0%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%234d6c68%22%2F%3E%3C%2FlinearGradient%3E%3Cpattern%20id%3D%22p%22%20width%3D%2244%22%20height%3D%2244%22%20patternUnits%3D%22userSpaceOnUse%22%3E%3Ccircle%20cx%3D%2222%22%20cy%3D%2222%22%20r%3D%223%22%20fill%3D%22%23f2f0e2%22%20opacity%3D%220.28%22%2F%3E%3Cpath%20d%3D%22M0%2022h44M22%200v44%22%20stroke%3D%22%23f2f0e2%22%20stroke-width%3D%220.5%22%20opacity%3D%220.16%22%2F%3E%3C%2Fpattern%3E%3C%2Fdefs%3E%3Crect%20width%3D%22600%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%3Crect%20width%3D%22600%22%20height%3D%22600%22%20fill%3D%22url(%23p)%22%2F%3E%3Ccircle%20cx%3D%22300%22%20cy%3D%22268%22%20r%3D%22150%22%20fill%3D%22none%22%20stroke%3D%22%23f2f0e2%22%20stroke-width%3D%222%22%20opacity%3D%220.55%22%2F%3E%3Ccircle%20cx%3D%22300%22%20cy%3D%22268%22%20r%3D%22126%22%20fill%3D%22none%22%20stroke%3D%22%23f2f0e2%22%20stroke-width%3D%221%22%20opacity%3D%220.4%22%2F%3E%3Cpath%20d%3D%22M300%20128v280M160%20268h280%22%20stroke%3D%22%23f2f0e2%22%20stroke-width%3D%221%22%20opacity%3D%220.32%22%2F%3E%3Ctext%20x%3D%22300%22%20y%3D%22272%22%20text-anchor%3D%22middle%22%20font-family%3D%22Georgia%2Cserif%22%20font-size%3D%2234%22%20fill%3D%22%23f2f0e2%22%3ECeramic%3C%2Ftext%3E%3Ctext%20x%3D%22300%22%20y%3D%22312%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2213%22%20letter-spacing%3D%225%22%20fill%3D%22%23f2f0e2%22%20opacity%3D%220.8%22%3EMIMK%3C%2Ftext%3E%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22552%22%20height%3D%22552%22%20fill%3D%22none%22%20stroke%3D%22%23f2f0e2%22%20stroke-width%3D%222%22%20opacity%3D%220.35%22%2F%3E%3C%2Fsvg%3E",
+      "featured": false,
+      "active": true,
+      "createdAt": 1706900000000,
+      "stock": 10
+    },
+    {
+      "id": "seed-11",
+      "name": "Temple Coin Necklace",
+      "category": "Jewellery",
+      "price": 2450,
+      "description": "Layered gold-toned coins with a traditional temple finish.",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22600%22%20viewBox%3D%220%200%20600%20600%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23d2a94e%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23966920%22%2F%3E%3C%2FlinearGradient%3E%3Cpattern%20id%3D%22p%22%20width%3D%2244%22%20height%3D%2244%22%20patternUnits%3D%22userSpaceOnUse%22%3E%3Ccircle%20cx%3D%2222%22%20cy%3D%2222%22%20r%3D%223%22%20fill%3D%22%23fff4d6%22%20opacity%3D%220.28%22%2F%3E%3Cpath%20d%3D%22M0%2022h44M22%200v44%22%20stroke%3D%22%23fff4d6%22%20stroke-width%3D%220.5%22%20opacity%3D%220.16%22%2F%3E%3C%2Fpattern%3E%3C%2Fdefs%3E%3Crect%20width%3D%22600%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%3Crect%20width%3D%22600%22%20height%3D%22600%22%20fill%3D%22url(%23p)%22%2F%3E%3Ccircle%20cx%3D%22300%22%20cy%3D%22268%22%20r%3D%22150%22%20fill%3D%22none%22%20stroke%3D%22%23fff4d6%22%20stroke-width%3D%222%22%20opacity%3D%220.55%22%2F%3E%3Ccircle%20cx%3D%22300%22%20cy%3D%22268%22%20r%3D%22126%22%20fill%3D%22none%22%20stroke%3D%22%23fff4d6%22%20stroke-width%3D%221%22%20opacity%3D%220.4%22%2F%3E%3Cpath%20d%3D%22M300%20128v280M160%20268h280%22%20stroke%3D%22%23fff4d6%22%20stroke-width%3D%221%22%20opacity%3D%220.32%22%2F%3E%3Ctext%20x%3D%22300%22%20y%3D%22272%22%20text-anchor%3D%22middle%22%20font-family%3D%22Georgia%2Cserif%22%20font-size%3D%2234%22%20fill%3D%22%23fff4d6%22%3ETemple%3C%2Ftext%3E%3Ctext%20x%3D%22300%22%20y%3D%22312%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2213%22%20letter-spacing%3D%225%22%20fill%3D%22%23fff4d6%22%20opacity%3D%220.8%22%3EMIMK%3C%2Ftext%3E%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22552%22%20height%3D%22552%22%20fill%3D%22none%22%20stroke%3D%22%23fff4d6%22%20stroke-width%3D%222%22%20opacity%3D%220.35%22%2F%3E%3C%2Fsvg%3E",
+      "featured": false,
+      "active": true,
+      "createdAt": 1707000000000,
+      "stock": 10
+    },
+    {
+      "id": "seed-12",
+      "name": "Festive Gift Hamper Box",
+      "category": "Gifts",
+      "price": 1899,
+      "description": "A reusable keepsake box filled with handmade little surprises.",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22600%22%20viewBox%3D%220%200%20600%20600%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23b5654e%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%237b3a2c%22%2F%3E%3C%2FlinearGradient%3E%3Cpattern%20id%3D%22p%22%20width%3D%2244%22%20height%3D%2244%22%20patternUnits%3D%22userSpaceOnUse%22%3E%3Ccircle%20cx%3D%2222%22%20cy%3D%2222%22%20r%3D%223%22%20fill%3D%22%23ffe9cc%22%20opacity%3D%220.28%22%2F%3E%3Cpath%20d%3D%22M0%2022h44M22%200v44%22%20stroke%3D%22%23ffe9cc%22%20stroke-width%3D%220.5%22%20opacity%3D%220.16%22%2F%3E%3C%2Fpattern%3E%3C%2Fdefs%3E%3Crect%20width%3D%22600%22%20height%3D%22600%22%20fill%3D%22url(%23g)%22%2F%3E%3Crect%20width%3D%22600%22%20height%3D%22600%22%20fill%3D%22url(%23p)%22%2F%3E%3Ccircle%20cx%3D%22300%22%20cy%3D%22268%22%20r%3D%22150%22%20fill%3D%22none%22%20stroke%3D%22%23ffe9cc%22%20stroke-width%3D%222%22%20opacity%3D%220.55%22%2F%3E%3Ccircle%20cx%3D%22300%22%20cy%3D%22268%22%20r%3D%22126%22%20fill%3D%22none%22%20stroke%3D%22%23ffe9cc%22%20stroke-width%3D%221%22%20opacity%3D%220.4%22%2F%3E%3Cpath%20d%3D%22M300%20128v280M160%20268h280%22%20stroke%3D%22%23ffe9cc%22%20stroke-width%3D%221%22%20opacity%3D%220.32%22%2F%3E%3Ctext%20x%3D%22300%22%20y%3D%22272%22%20text-anchor%3D%22middle%22%20font-family%3D%22Georgia%2Cserif%22%20font-size%3D%2234%22%20fill%3D%22%23ffe9cc%22%3EHamper%3C%2Ftext%3E%3Ctext%20x%3D%22300%22%20y%3D%22312%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2213%22%20letter-spacing%3D%225%22%20fill%3D%22%23ffe9cc%22%20opacity%3D%220.8%22%3EMIMK%3C%2Ftext%3E%3Crect%20x%3D%2224%22%20y%3D%2224%22%20width%3D%22552%22%20height%3D%22552%22%20fill%3D%22none%22%20stroke%3D%22%23ffe9cc%22%20stroke-width%3D%222%22%20opacity%3D%220.35%22%2F%3E%3C%2Fsvg%3E",
+      "featured": false,
+      "active": true,
+      "createdAt": 1707100000000,
+      "stock": 10
+    }
+  ],
+  "cart": [],
+  "orders": []
+}
